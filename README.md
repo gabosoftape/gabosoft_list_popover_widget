@@ -1,0 +1,1 @@
+gabosoft_list_popover_widget
